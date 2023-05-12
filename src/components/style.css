@@ -1,0 +1,26 @@
+body{
+  background-image: url('https://www.shyamparivar.com/uploads/gallery/Sky-and-Moon-Dark-Wallpaper-for-Desktop-and-Laptop.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.tb
+{
+      height: 500px;
+      width: 100%;
+}
+.lb {
+  position: fixed;
+  top: 50%;
+  left: 45%;
+}
+.sb {
+  position: fixed;
+  top: 50%;
+  left: 45%;
+}
+.tl 
+{
+  position: fixed;
+  top: 50%;
+  left: 49%;
+}
