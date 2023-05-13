@@ -1,5 +1,5 @@
 body{
-  background-image: url('https://media.istockphoto.com/id/999970232/photo/blood-cells.jpg?s=612x612&w=0&k=20&c=QXWprSkhYgArRyluuUlZDzhJk6rTC374qofCE_KfLiU=');
+  background-image: url('https://img.lovepik.com/photo/50032/5642.jpg_wh860.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -52,7 +52,7 @@ body{
       flex-direction: column;
       align-items: center;
       justify-content: space-around;
-      background-image: url('https://media.istockphoto.com/id/1165545579/photo/cells.jpg?s=612x612&w=0&k=20&c=yGYgY2JVhe4aJTiNtYK0ogrpcKvygy2Zen3oMt1ZwfY=');
+      background-image: url('');
 }
 
 .id{
